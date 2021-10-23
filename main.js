@@ -23,7 +23,7 @@
 //   console.log(hrs);
 // }
 
-const countDownDate = new Date("October 24, 2021 23:00:00").getTime();
+const countDownDate = new Date("January 1, 2022 23:00:00").getTime();
 setInterval(showTime, 1000);
 
 function showTime() {
